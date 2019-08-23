@@ -1,3 +1,10 @@
+/**
+ * COUNTING 
+ * 0(n)
+ *
+ */
+
+
 function counting(arr) {
   const counts = {};
   arr.forEach(element => {
