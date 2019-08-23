@@ -5,7 +5,8 @@
  * Recursion - base case
  * For of
  * Pivot
- * 
+ * In place
+ * 0(n log n)
  */
 
 function quickSort(arr) {
